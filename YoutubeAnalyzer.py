@@ -2,7 +2,6 @@ from textwrap import dedent
 import os
 from agno.models.google import Gemini
 from agno.agent import Agent
-from agno.models.openai import OpenAIChat
 from agno.tools.youtube import YouTubeTools
 from dotenv import load_dotenv
 
